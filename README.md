@@ -34,7 +34,7 @@ A fast, multithreaded Python port scanner that monitors open ports, compares the
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/port-scanner-baseline.git
+    git clone https://github.com/moranchay/port-scanner-baseline.git
     cd port-scanner-baseline
     ```
 
