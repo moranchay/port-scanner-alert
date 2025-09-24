@@ -39,13 +39,6 @@ A fast, multithreaded Python port scanner that monitors open ports, compares the
     cd port-scanner-baseline
     ```
 
-2.  Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-
 ## Usage
 
 The script uses command-line arguments to control its behavior.  Here are some examples:
