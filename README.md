@@ -27,7 +27,6 @@ A fast, multithreaded Python port scanner that monitors open ports, compares the
 ## Requirements
 
 *   Python 3.6 or higher
-*   `pip` (Python package installer)
 
 
 ## Installation
