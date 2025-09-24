@@ -1,6 +1,6 @@
 # Port Scanner Alert
 
-A fast, multithreaded Python port scanner that monitors open ports, compares them to a stored baseline, and alerts you to changes. Perfect for learning networking, Python, and system monitoring.
+A fast, multithreaded Python port scanner that monitors open ports, compares them to a stored baseline, and alerts you to changes. Perfect first project for learning a bit of networking, Python, and system monitoring.
 
 
 ## Table of Contents
